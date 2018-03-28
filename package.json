@@ -1,0 +1,19 @@
+{
+  "name": "simple-caculate",
+  "version": "1.0.0",
+  "description": "an easy caculate util for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codingXiaxw/simple-caculate.git"
+  },
+  "author": "codingXiaxw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codingXiaxw/simple-caculate/issues"
+  },
+  "homepage": "https://github.com/codingXiaxw/simple-caculate#readme"
+}
