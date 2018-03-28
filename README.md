@@ -11,5 +11,5 @@ npm install simple-caculate --save
 ## Usage
 ```javascript
 var simpleCaculate = require('simple-caculate');
-simpleCaculate(expression,data);
+simpleCaculate(expression,data);//expression为表达式，data为json参数
 ```
